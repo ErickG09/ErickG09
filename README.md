@@ -1,45 +1,84 @@
+<h1 align="center">Erick Guevara Morales</h1>
+<p align="center">
+  Desarrollador de Software Full-Stack
+</p>
 
-## 🚀 ¡Bienvenido(a) a mi GitHub!
-
-### 👨‍💻 ¿Quién soy?
-
-Hola, soy Erick Guevara Morales. Soy un estudiante de Ingeniería en Sistemas Computacionales. 
-Soy un desarrollador apasionado por la tecnología y la programación. Me especializo en desarrollo web.
-
-- 🌱 Siempre estoy aprendiendo nuevas tecnologías y mejorando mis habilidades.
-- 💬 Me encanta colaborar y compartir conocimiento con la comunidad de desarrolladores.
-  
-## 🛠️ Skills
-
-- **Lenguaje de programacións**: Python, JavaScript, C++.
-- **Frameworks**: Rreact, Flask.
-- **Herramientas**: Git, GitHub, Visual Studio Code, PyCharm, Postman, Figma, Arduino IDE, Atom, Notion, Repl.it, Jupyter Notebook.
-
-
-<!-- Agrega capturas de pantalla o enlaces de tus proyectos principales 
-| Project Name | Description | Technologies | Screenshot |
-| ------------ | ----------- | ------------ | ---------- |
-| [Proyecto 1](link-to-project) | Breve descripción del proyecto | Tech usadas | ![Screenshot](link-to-image.png) |
-| [Proyecto 2](link-to-project) | Breve descripción del proyecto | Tech usadas | ![Screenshot](link-to-image.png) |
--->
-  
-## 📈 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ErickG09&show_icons=true&theme=radical) <!-- Reemplaza `tu-usuario` con tu nombre de usuario en GitHub -->
-  
-## 🎮 Fun Facts
-
-- 🧠 Me gustan los cubos Rubik.
-- 🚗 Amante de los autos y la velocidad.
-- 🎮 Fanático de los videojuegos.
-- 🚴 Disfruto salir en bicicleta los fines de semana para despejar la mente.
-- ⚽ Soy gran fan del futbol, mi equipo es el Barcelona.
-
-## 📫 Contáctame
-
-Puedes encontrarme en:
-- [Email](witherick11@gmail.com)
+<p align="center">
+  Aplicaciones web, sistemas internos e integraciones con enfoque profesional y de negocio.
+</p>
 
 ---
 
+## Sobre mí
 
+Soy desarrollador de software enfocado en construir aplicaciones web y sistemas internos orientados a procesos reales de negocio.
+
+Trabajo en soluciones que combinan interfaz, backend, lógica de negocio, estructura de datos e integración técnica para transformar operaciones en productos digitales más claros, funcionales y mantenibles.
+
+Me interesa desarrollar software útil: herramientas que ayuden a empresas y equipos a trabajar mejor, con mayor orden, trazabilidad y eficiencia.
+
+---
+
+## Especialidad
+
+- Aplicaciones web full-stack
+- Sistemas internos para operación y administración
+- APIs e integraciones entre módulos
+- Modelado relacional y estructura de datos
+- Automatización de procesos
+- Interfaces limpias y experiencia de uso clara
+
+---
+
+## Tecnologías
+
+**Frontend**
+- Next.js
+- React
+- TypeScript
+- JavaScript
+- Tailwind CSS
+
+**Backend**
+- Python
+- Flask
+- Django
+- REST APIs
+
+**Base de datos**
+- PostgreSQL
+
+**Herramientas**
+- Git
+- GitHub
+- Postman
+- Figma
+- Visual Studio Code
+- PyCharm
+- Jupyter Notebook
+- Notion
+
+---
+
+## Portafolio profesional
+
+**[portafolio-web-roan-xi.vercel.app](https://portafolio-web-roan-xi.vercel.app/)**
+
+---
+
+## Estadísticas
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=ErickG09&show_icons=true&theme=transparent"
+    alt="GitHub Stats de Erick Guevara Morales"
+  />
+</p>
+
+---
+
+## Contacto
+
+- Correo: witherick11@gmail.com
+- LinkedIn: [Agregar enlace]
+- Portafolio: [Ver portafolio](https://portafolio-web-roan-xi.vercel.app/)
