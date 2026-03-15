@@ -66,19 +66,9 @@ Me interesa desarrollar software útil: herramientas que ayuden a empresas y equ
 
 ---
 
-## Estadísticas
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=ErickG09&show_icons=true&theme=transparent"
-    alt="GitHub Stats de Erick Guevara Morales"
-  />
-</p>
-
----
 
 ## Contacto
 
 - Correo: witherick11@gmail.com
-- LinkedIn: [Agregar enlace]
+- LinkedIn: [Ver LinkedIn](www.linkedin.com/in/erick-guevara-morales-b1b669331).
 - Portafolio: [Ver portafolio](https://portafolio-web-roan-xi.vercel.app/)
