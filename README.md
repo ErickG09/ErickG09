@@ -62,7 +62,7 @@ Me interesa desarrollar software útil: herramientas que ayuden a empresas y equ
 
 ## Portafolio profesional
 
-**[portafolio-web-roan-xi.vercel.app](https://portafolio-web-roan-xi.vercel.app/)**
+**[Portafolio Web](https://portafolio-web-roan-xi.vercel.app/)**
 
 ---
 
@@ -70,5 +70,5 @@ Me interesa desarrollar software útil: herramientas que ayuden a empresas y equ
 ## Contacto
 
 - Correo: witherick11@gmail.com
-- LinkedIn: [Ver LinkedIn](www.linkedin.com/in/erick-guevara-morales-b1b669331).
+- LinkedIn: [Erick Guevara Morales](https://www.linkedin.com/in/erick-guevara-morales-b1b669331)
 - Portafolio: [Ver portafolio](https://portafolio-web-roan-xi.vercel.app/)
